@@ -3,4 +3,4 @@ I made use of this program for scraping tool for extracting texts from the set o
 
 In order to adapt charcters to 'jisx0208', this program uses cnvk.py (https://github.com/yuka2py/cnvk/blob/master/cnvk.py) and unicode.txt, please download these files.
 
-This program is low versatility, so I would appreciate if you used it as a reference. 
+This program is low versatility and the code is dirty. Therefore I would appreciate if you used it as a reference. 
